@@ -8,7 +8,7 @@ public class SupportappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SupportappApplication.class, args);
-		System.out.println("Hello");
+		System.out.println("Server is OK");
 	}
 
 }
